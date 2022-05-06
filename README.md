@@ -1,2 +1,2 @@
 # UnbypassableMinecraftAntiCheat
-The only unbypassable minecraft anti cheat.
+This is a meme so I won't add a lisense
